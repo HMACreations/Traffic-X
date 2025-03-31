@@ -18,8 +18,8 @@ cd /home/ubuntu
 To install Traffic-X, run the following command:
 ---
 ```
-bash
-bash <(curl -s https://raw.githubusercontent.com/Tyga-x/Traffic-X/main/Traffic-X.sh)
+
+bash <(curl -s https://raw.githubusercontent.com/HMACreations/Traffic-X/main/Traffic-X.sh)
 ```
 
 ---
